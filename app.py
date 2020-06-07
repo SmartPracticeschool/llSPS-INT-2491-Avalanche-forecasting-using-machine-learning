@@ -2,7 +2,7 @@ import numpy as np
 from flask import Flask, request, jsonify, render_template
 from joblib import load
 app = Flask(__name__)
-model = load('rand_fores_model.h5')
+model = load('random_forest_model.h5')
 
 @app.route('/')
 def home():
