@@ -7,3 +7,6 @@ The word Avalanche refers to snow and ice. It means a mass of snow, ice, rocks, 
 
 Solution:
 This project prevent the people from the avalanche by priory informing them there is a chance to the occurrence of avalanche or not. The model gets the data from the IOT based sensors. After that we want to process those data using a suitable algorithm, then our model display whether the avalanche occur or not and how strength it was. To analyse the  data coming from different sensors we are applying various machine learning algorithms. If there is a chance of  avalanche then the notification will be sent to people  so that they can take decisions accordingly.
+
+Documentation:
+A video description of the project is to be found in the final.rar.
