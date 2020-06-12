@@ -9,4 +9,9 @@ Solution:
 This project prevent the people from the avalanche by priory informing them there is a chance to the occurrence of avalanche or not. The model gets the data from the IOT based sensors. After that we want to process those data using a suitable algorithm, then our model display whether the avalanche occur or not and how strength it was. To analyse the  data coming from different sensors we are applying various machine learning algorithms. If there is a chance of  avalanche then the notification will be sent to people  so that they can take decisions accordingly.
 
 Documentation:
-A video description of the project is to be found in the video.rar.
+A video description of the project is to be found in the Video.rar.
+
+Testimonials:
+
+The Testimonials were larger than 25MB so I had them uploaded in a drive link
+https://drive.google.com/drive/folders/1IGF-kCqaTIw-m8BI1vlNrcsE0mB8MgCv?usp=sharing
